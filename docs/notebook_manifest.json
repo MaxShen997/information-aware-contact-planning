@@ -1,0 +1,50 @@
+[
+  {
+    "path": "notebooks/01_linear_pusher_identification.ipynb",
+    "source_sha256": "a0f10f8f63c63b2556df2d29b8bf4d96ed70a9f6070e2732764955366eeb2ccb",
+    "published_sha256": "daf51f0cf7f5991462b62f66c9cf5547874456afc9ebc59655af23d70a3988a0",
+    "code_cells": 10
+  },
+  {
+    "path": "notebooks/05_information_aware_probing_full_history.ipynb",
+    "source_sha256": "3388c467cebf0045d73fb5fe33e1c680b9eb2b414c1fc0d8b58dbc490fc21b63",
+    "published_sha256": "f8849ea4fc3b9244013d0fdcef58d2eec74f8ac03faa2d9dcfb6762a80e3a4d4",
+    "code_cells": 18
+  },
+  {
+    "path": "notebooks/06_adaptive_sls_drake_integration.ipynb",
+    "source_sha256": "471e59da2a99de60065dbc6ce9b2471e36c075f96e6f4336e1fe286156664e72",
+    "published_sha256": "d3a38710d287670ada0c49e4492e6899ba106d96919303a89ae672a9a6b2b3d4",
+    "code_cells": 14
+  },
+  {
+    "path": "archive/02_planning_after_learning.ipynb",
+    "source_sha256": "54b5c21d3a0d4165676cd3a45aed6ea07bbf30555aa60d5c8800648a04735189",
+    "published_sha256": "7a36a52c4742695e4a6d56dc738baa1a5937c84b0e97cf59bc682c58f95790ea",
+    "code_cells": 8
+  },
+  {
+    "path": "archive/03_batch_validation.ipynb",
+    "source_sha256": "fcc37806c5a6d315a7396f59c581c8b70c14fc951384cef50001b13c1f7ceabc",
+    "published_sha256": "6a7cd6a4e6c17b54305f45fb3ca7947930bb1d7117f4ed7c24adfc95c6006c34",
+    "code_cells": 10
+  },
+  {
+    "path": "archive/04_dynamic_friction_identification.ipynb",
+    "source_sha256": "ada88470dbd19f7da2e2e18049e3aaedd725bdd106326e9c97de5b17043cb648",
+    "published_sha256": "e2ecdc287a4ba2e4f637c2b56e88bcf89d9ff5ea2902804a6789e1cd4d6a70c3",
+    "code_cells": 11
+  },
+  {
+    "path": "archive/05_information_aware_probing_frozen.ipynb",
+    "source_sha256": "ee3314f71486106c96bfe81ae0192908dc97145f3a4ad90edc831d0ff7006884",
+    "published_sha256": "ef04fa6d1f145473f768c08865531ea35704bc31b0429dc457d4d04766ed0384",
+    "code_cells": 13
+  },
+  {
+    "path": "archive/06_adaptive_sls_smooth_baseline.ipynb",
+    "source_sha256": "2660f7f937dc5e48ea43c03bb4ca455e103e84da2cc8e1db0657a9bba7c10c15",
+    "published_sha256": "e9a2d3cc67cf98e564edd2ff53d2ca7b773bb9a7d4e0dd3b7568d392545eefb6",
+    "code_cells": 11
+  }
+]
